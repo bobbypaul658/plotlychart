@@ -3,7 +3,7 @@ Roza wants her volunteers should be able to identify the top 10 bacterial specie
 
 ##Findings 
 Images are shown from patients 940-1601
-
+![screenshot](screenshot.png)
 
 Conclusion: Roza is able to find what she needs therefore has concluded her project.
 
